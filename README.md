@@ -1,5 +1,5 @@
 # kiro-communication-and-output
-Sets consistent tone and formatting guidelines so Kiro responds like a teammate rather than a support bot. Key rules:
+Sets consistent tone and formatting guidelines so Kiro responds like a teammate rather than a support bot. 
 
 ## Summary
 
